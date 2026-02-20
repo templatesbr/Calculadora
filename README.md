@@ -9,7 +9,6 @@ Projeto de uma calculadora desenvolvida com HTML, CSS e JavaScript.
 
 ## Funcionalidades
 - Operações básicas (+, -, *, /)
-- Interface moderna
 - Separação de arquivos (HTML, CSS e JS)
 
 ## Objetivo
